@@ -1,0 +1,1 @@
+export default function Tournaments(){return <main style={{padding:40}}><h1>Tournaments</h1><p>List of tournaments will appear here.</p></main>}
