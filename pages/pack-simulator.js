@@ -1,0 +1,1 @@
+export default function PackSimulator(){return <main style={{padding:40}}>Pack Simulator - placeholder</main>}

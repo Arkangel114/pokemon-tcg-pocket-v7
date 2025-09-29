@@ -1,0 +1,1 @@
+export default function DeckBuilder(){return <main style={{padding:40}}>Deck Builder (20 card limit) - placeholder</main>}
